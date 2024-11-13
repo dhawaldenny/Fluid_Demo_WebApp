@@ -12,12 +12,7 @@ builder.Services.AddControllersWithViews()
     .AddFluid(); // Add Fluid support
 
 
-builder.Services.AddControllersWithViews()
-    .AddRazorRuntimeCompilation();
-
 var app = builder.Build();
-
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -35,12 +30,14 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseStaticFiles();
+
 
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "fluid",
-    pattern: "{controller}/{action=Index}/{id?}",
+    pattern: "{action=Index}/{id?}",
     defaults: new { controller = "Fluid" });
 
 
