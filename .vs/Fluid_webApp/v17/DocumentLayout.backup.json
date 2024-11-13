@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\fluid_webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\fluid_webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\controllers\\fluidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\controllers\\fluidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|c:\\projects\\repository\\koolay\\demo\\final\\fluid_webapp\\fluid_webapp\\fluid_webapp\\views\\fluid\\index.liquid||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\views\\fluid\\index.liquid||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Fluid_webApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T04:07:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fluid_webApp.csproj",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp.csproj",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Fluid_webApp.csproj",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp.csproj",
+              "RelativeToolTip": "Fluid_webApp\\Fluid_webApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T11:04:53.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Fluid_webApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T11:20:25.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fluid_webApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:54:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.liquid",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Views\\Fluid\\Index.liquid",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Views\\Fluid\\Index.liquid",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Views\\Fluid\\Index.liquid",
+              "RelativeToolTip": "Fluid_webApp\\Views\\Fluid\\Index.liquid",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T05:34:34.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FluidController.cs",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Controllers\\FluidController.cs",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Controllers\\FluidController.cs",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Controllers\\FluidController.cs",
+              "RelativeToolTip": "Fluid_webApp\\Controllers\\FluidController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:30:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Dockerfile",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Dockerfile",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Dockerfile",
+              "RelativeToolTip": "Fluid_webApp\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T04:46:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Program.cs",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\Repository\\Koolay\\demo\\Final\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp\\Program.cs",
+              "RelativeToolTip": "Fluid_webApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:06:18.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
